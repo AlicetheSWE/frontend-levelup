@@ -1,0 +1,15 @@
+.header{
+font-size: x-large;
+font-weight: bold;
+
+}
+.para{
+   
+    width: 300px; 
+}
+.Alice{
+    display: flex;
+    flex-direction: column;
+    margin-left: 400px;
+    justify-content: center;  
+}
